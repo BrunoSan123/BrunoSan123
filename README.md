@@ -1,6 +1,6 @@
 # Bem vindos ao meu repositório
 
-## Sou desenvolvedor fullstack apaixonado por tecnologia,matemáticae resolver problemas.
+## Sou desenvolvedor fullstack apaixonado por tecnologia,matemática e resolver problemas.
 
 ### Aqui voçês encontraram projetos e estudos nas seguintes linguagens:
 
