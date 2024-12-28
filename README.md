@@ -12,3 +12,6 @@
 + ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 
 > O repositório é bem movimentado devido a vários projetos de estudo e também projetos que são feitos sob encomenda,mas que é construido de forma cinza, para preservar a confidencialidade do cliente.
+
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoSan123&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoSan123&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
